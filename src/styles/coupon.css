@@ -1,0 +1,124 @@
+
+/* 쿠폰 */
+.coupon_wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-height: 800px;
+    background: url("../../public/img/bg_sec_04.jpg") no-repeat center/cover;
+    position: relative;
+    padding: 60px 40px;
+    overflow: hidden;
+  }
+  .coupon_wrap .box {
+    width: 100%;
+    max-width: 592px;
+    background: var(--white);
+    padding: 75px 35px 40px;
+    position: relative;
+    z-index: 1;
+  }
+  .coupon_wrap .box h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: "topShow", sans-serif;
+  }
+  .coupon_wrap .box .form .btn_primary {
+    margin-top: 22px;
+  }
+  .coupon_wrap .box .guide {
+    border-top: solid 1px #707070;
+    margin-top: 28px;
+    padding-top: 30px;
+  }
+  .coupon_wrap .box .guide {
+    text-align: center;
+  }
+  .coupon_wrap .box .guide .tit {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .coupon_wrap .box .guide p {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-top: 10px;
+  }
+  .coupon_wrap .box .guide button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 4px;
+    height: 44px;
+    border: solid 1px #b2b2b2;
+    border-radius: 50px;
+    font-size: 20px;
+    color: #b2b2b2;
+    padding: 0 20px;
+    margin-top: 12px;
+    transition: all 0.2s;
+  }
+  .coupon_wrap .box .guide button img {
+    opacity: 0.3;
+    transition: all 0.2s;
+  }
+  .coupon_wrap .box .guide button:hover {
+    color: #141414;
+    border-color: #141414;
+  }
+  .coupon_wrap .box .guide button:hover img {
+    opacity: 1;
+  }
+
+  
+.guide_pop {
+    display: flex;
+  }
+  .guide_pop .inner {
+    width: 100%;
+    max-width: 600px;
+    background: var(--white);
+  }
+  .guide_pop .head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 108px;
+    background: var(--primary);
+    position: relative;
+  }
+  .guide_pop .head h2 {
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .guide_pop .head .btn_close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    right: 40px;
+    transform: translateY(-50%);
+  }
+  .guide_pop .cont {
+    font-size: 18px;
+    line-height: 2;
+    padding: 36px 48px;
+    max-height: 540px;
+    height: 70vh;
+    overflow-y: auto;
+  }
+  .guide_pop .cont ul li {
+    position: relative;
+    padding-left: 14px;
+  }
+  .guide_pop .cont ul li:before {
+    content: "-";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }

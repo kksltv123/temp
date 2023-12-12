@@ -1,0 +1,1005 @@
+                    <div>
+                      <h3>
+                        <strong>
+                          [GunboundR Política de Operación del Juego]
+                        </strong>
+                      </h3>
+                      <p>
+                        El propósito de esta política de operación es proteger
+                        el derecho de uso y proporcionar servicios justos y
+                        equitativos de los problemas que puedan surgir cuando
+                        los miembros (incluidos los “usuarios temporales”) usan
+                        “GunboundR” proporcionado por “Softnyx” (en adelante, la
+                        “empresa”).
+                      </p>
+                    </div>
+                    <div>
+                      <h3>1. Política de operación básica</h3>
+                      <p>
+                        1) Esta “Política de Operación” sirve para complementar
+                        los asuntos establecidos en los Términos de Uso y
+                        estipula los estándares para los servicios
+                        proporcionados por la empresa y los detalles que los
+                        miembros deben seguir al usar los servicios.
+                        <br />
+                        2) Los asuntos no especificados en la “Política de
+                        Operación” se regularán a través de la interpretación de
+                        los “Términos de uso” y el propósito de esta “Política
+                        de Operación”, de las leyes y regulaciones relacionadas
+                        y, en caso de vacío de estas últimas, de las
+                        percepciones o sentimientos sociales comunes.
+                        <br />
+                        3) La Empresa puede agregar, cambiar o eliminar la
+                        “Política de Operación” en cualquier oportunidad para
+                        brindar un mejor servicio. En este caso, los cambios y
+                        eliminaciones se notificarán 7 días antes de la
+                        aplicación a través de un método que permita a los
+                        miembros saberlo fácilmente (aviso en el juego, aviso
+                        oficial en la comunidad, etc.) y uno o más métodos de
+                        notificación de contacto.
+                        <br />
+                        Sin embargo, en caso de cualquier asunto desventajoso o
+                        significativo para el miembro, se le notificará con 30
+                        días de anticipación.
+                        <br />
+                        4) Si un miembro no está de acuerdo con la aplicación de
+                        la "Política de Operación" modificada, puede negarse a
+                        aplicar la "Política de Operación" modificada. Los
+                        miembros que tengan objeciones al cambio en la “Política
+                        de Operación” pueden suspender el uso del servicio de
+                        “GunboundR” y resolver o de otro modo dejar sin efecto
+                        el acuerdo de uso (eliminación de la aplicación de
+                        “GunboundR”, etc.).
+                        <br />
+                        5) Si un miembro continúa usando el servicio de
+                        “GunboundR” después de la fecha de vigencia de la
+                        “Política de Operación” modificada, la Empresa considera
+                        que el miembro ha aceptado la “Política de Operación”
+                        modificada.
+                        <br />
+                        6) En cuanto al daño causado por notificar el cambio de
+                        la ‘Política de Operación’ pero no reconocerlo, no
+                        podemos ayudar, así que por favor revise los avisos de
+                        vez en cuando.
+                        <br />
+                        [Ir a los Términos de Uso]
+                      </p>
+                    </div>
+                    <div>
+                      <h3>2. Derechos y Obligaciones de los Socios</h3>
+                      <p>
+                        1) Los miembros deben cumplir con los términos de uso y
+                        la “Política de Operación” de la empresa. Los miembros
+                        pueden ser responsables de los daños y consecuencias que
+                        se produzcan si violan la “Política de Operación”.
+                        <br />
+                        2) Los miembros tienen derecho a utilizar de forma
+                        selectiva todos los juegos y elementos de servicio
+                        proporcionados por el servicio de “GunboundR”.
+                        <br />
+                        3) La empresa es propietaria de todos los derechos de
+                        propiedad intelectual, información confidencial, datos
+                        personales, etc., sobre toda la información (personajes,
+                        ítems, productos del juego, etc.) relacionada con el
+                        servicio de “GunboundR” del miembro y otorga al miembro
+                        el derecho a usar esta información.
+                        <br />
+                        4) Los miembros pueden consultar y recibir orientación
+                        sobre cómo resolver problemas poniéndose en contacto con
+                        el centro de atención al cliente de la empresa con
+                        respecto a problemas en el proceso de uso de
+                        “GunboundR”.
+                        <br />
+                        5) Los miembros pueden hacer consultas o sugerencias al
+                        operador de “GunboundR” para un mejor juego.
+                        <br />
+                      </p>
+                      <div
+                        style={{
+                          borderTop: "solid 1px #ffffff",
+                          borderBottom: "solid 1px #ffffff",
+                          margin: "20px 0",
+                          padding: "20px 0",
+                        }}
+                      >
+                        [Horario de atención e información de contacto del
+                        Centro de Atención al Cliente]
+                        <br />
+                        - Horario de atención: 10:00 ~ 18:00 GMT - 5<br />-
+                        Consultas: Consulta 1:1 en el juego o en [Email Address]
+                      </div>
+                      <p>
+                        6) Los miembros están obligados a estar al tanto de la
+                        información entregada oficialmente por la empresa o el
+                        servicio de “GunboundR”, y la empresa no se hace
+                        responsable de los daños causados por no saber esto.
+                        <br />
+                        7) Los miembros no pueden participar en ninguna
+                        actividad lucrativa utilizando el servicio de
+                        “GunboundR” sin el consentimiento previo de la empresa.
+                        <br />
+                        8) Los miembros no pueden usar ni proporcionar a otros
+                        la información obtenida mediante el uso del servicio de
+                        “GunboundR” de ninguna otra manera, como copiar,
+                        duplicar, cambiar, traducir, publicar, transmitir, etc.,
+                        sin el consentimiento previo de la empresa.
+                        <br />
+                        9) Los miembros deben notificar a la empresa cuando
+                        ocurran o descubran vulnerabilidades (bugs, errores del
+                        sistema, etc.) del servicio de “GunboundR" y no deben
+                        propagarlas o sacar provecho con otros miembros. Incluso
+                        después de descubrir la vulnerabilidad del servicio de
+                        “GunboundR”, si se abusa de él o se comparte con otros
+                        sin notificar a la empresa, se considera como acto
+                        malsano intencional y el uso del servicio de “GunboundR”
+                        puede restringirse y puede ser sancionado por las leyes
+                        aplicables.
+                        <br />
+                        10) El miembro es responsable de administrar su
+                        dispositivo móvil, y el miembro es responsable de
+                        cualquier pérdida o daño causado por la transferencia o
+                        el alquiler a un tercero.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>3. Deberes y roles del Operador</h3>
+                      <p>
+                        1) El “Operador (o GM)” deberá estar familiarizado y
+                        cumplir con los “Términos de uso”, “Política de
+                        operación” y “Política de privacidad”.
+                        <br />
+                        2) El “Operador (o GM)” hará todo lo posible para
+                        erradicar los actos que violen la “Política de
+                        operación” y brindar un servicio “GunboundR” fluido.
+                        <br />
+                        3) El “Operador (o GM)” no consulta, modifica, filtra ni
+                        difunde información personal de los miembros. Sin
+                        embargo, si se solicita el suministro de información
+                        personal a través de procedimientos legales, como
+                        agencias gubernamentales o instituciones judiciales, la
+                        información personal puede ser proporcionada a las
+                        organizaciones pertinentes.
+                        <br />
+                        4) El "Operador (o GM)" recibe informes sobre todo tipo
+                        de fallas y errores que les ocurren a los miembros a
+                        través de los canales de servicio al cliente y los
+                        sitios de la comunidad; además, tiene el deber de
+                        verificar y solicitar correcciones de inmediato.
+                        <br />
+                        5) El “Operador (o GM)” no brinda opiniones sobre el
+                        propósito o el progreso del juego que el miembro debe
+                        lograr dentro del servicio de “GunboundR”, aparte de los
+                        asuntos relacionados con el juego conocidos oficialmente
+                        a través de avisos, etc.
+                        <br />
+                        6) El “Operador (o GM)” desempeña el rol asignado en una
+                        posición neutral y, en principio, no interviene ni se
+                        involucra en las actividades o disputas del miembro.
+                        <br />
+                        7) El “Operador (o GM)” podrá, si se determina que
+                        ocurre un fenómeno anormal o no intencionado dentro o
+                        fuera del servicio de “GunboundR” o que causa un
+                        problema que interfiere con la prestación fluida del
+                        servicio 'GunboundR', restringir algunos o todos los
+                        servicios de “GunboundR”.
+                        <br />
+                        8) Si el “Operador (o GM)” determina que la conducta de
+                        un miembro o grupo específico interfiere con la
+                        prestación fluida del servicio de “GunboundR” o viola la
+                        “Política de operación”, el “Operador (o GM)” puede
+                        tomar varias medidas para el uso de servicios por parte
+                        de miembros o grupos específicos.
+                        <br />
+                        9) Si el “Operador (o GM)” determina que es necesario
+                        tomar medidas para brindar un servicio de “GunboundR”
+                        fluido debido a una situación no especificada en la
+                        “Política de operación”, el “Operador (o GM)” puede
+                        solicitar una advertencia o acción específica al miembro
+                        o grupo y si no cumple con la solicitud, puede tomar
+                        medidas como la terminación forzosa de la conexión o la
+                        restricción de uso.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>4. Manejo de información personal</h3>
+                      <p>
+                        1) Los miembros deben administrar sus propias cuentas y
+                        los miembros son los principales responsables de
+                        administrar las cuentas que usan. Es difícil ayudar en
+                        problemas causados por negligencia o negligencia del
+                        miembro.
+                        <br />
+                        2) Si un miembro comparte su información personal o su
+                        cuenta con otros, o la transfiere o comercia de manera
+                        anormal, la empresa no lo reconoce y no puede protegerlo
+                        de todos los problemas (fraude, robo de cuenta, etc.).
+                        <br />
+                        3) Si un miembro intenta intercambiar cash/especies por
+                        cuenta, personaje, bienes del juego, ítems, etc., el uso
+                        puede estar restringido de acuerdo con los estándares de
+                        esta política de operación sin previo aviso, y es
+                        difícil ayudar en los problemas causados por estas
+                        razones.
+                        <br />
+                        4) Los miembros deben cambiar periódicamente la
+                        contraseña de la cuenta que utilizan para administrar y
+                        proteger su propia información de actos fraudulentos de
+                        otros, como el robo de cuentas.
+                        <br />
+                        5) La mayoría de los casos de fraude son causados por
+                        negligencia personal, por lo que es difícil ayudar en
+                        problemas causados por estas razones. Tenga cuidado
+                        cuando intercambie o use bienes o ítems para evitar
+                        daños tales como la suplantación al crear nombres de
+                        personajes y nombres de operadores similares, y el
+                        fraude usando amistades.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>5. Política de nombre</h3>
+                      <p>
+                        1) Nombre significa todos los nombres utilizados por los
+                        miembros, como el nickname oficial de la comunidad, el
+                        nickname del personaje y el nombre del clan de
+                        "GunboundR".
+                        <br />
+                        Los miembros son libres de elegir un nombre, siempre y
+                        cuando no creen un nombre que coincida o se parezca a
+                        los siguientes ejemplos:
+                        <br />
+                        (A) Nombres que son ofensivos para otros <br />
+                        (B) Nombres que difaman o degradan una raza,
+                        nacionalidad, etnia, religión, género, persona,
+                        discapacidad, etc. <br />
+                        (C) Nombres de contenidos que calumnian a la empresa,
+                        empleados de la empresa y servicios.
+                        <br />
+                        (D) Nombres que pueden reconocerse o malinterpretarse
+                        como la persona que opera del juego: "Operador", "GM",
+                        "gerente", etc. <br />
+                        (E) Nombres que contienen blasfemias o blasfemias
+                        excesivas.
+                        <br />
+                        (F) Nombres de contenido sensacionalista u obsceno.
+                        <br />
+                        (G) Un nombre antisocial o un nombre que se considera
+                        que tiene una intención significativa de glorificar a
+                        una persona o grupo antisocial. <br />
+                        (H) Nombres de contenidos que infringen derechos de
+                        marca o derechos de autor de la empresa o de terceros.
+                        <br />
+                        (I) Nombres que se consideran que tienen la intención de
+                        intercambiar cuentas/personajes/ítems en cash/especies.
+                        (J) Nombre de contenido que anuncia/promociona un
+                        objetivo específico.
+                        <br />
+                        (K) Nombres de contenidos que entran en conflicto con
+                        las leyes y regulaciones pertinentes.
+                        <br />
+                      </p>
+                    </div>
+                    <div>
+                      <h3>6. Política de recuperación</h3>
+                      <p>
+                        1) En caso de que la información de uso del juego
+                        (personajes, ítems, productos del juego, etc. adquiridos
+                        por un miembro en el proceso de uso de los servicios del
+                        juego) se pierda o cambie debido a razones atribuibles a
+                        la empresa o errores técnicos, datos objetivos e
+                        información a través del juego, la recuperación de datos
+                        es posible dentro del rango confirmado.
+                        <br />
+                        2) Sin embargo, la empresa no puede ayudar con ninguna
+                        parte causada por la propia negligencia del miembro, los
+                        contenidos especificados en la “Política de operación” y
+                        la falta de comprensión de los contenidos notificados en
+                        el juego o la comunidad oficial de antemano.
+                        <br />
+                        3) Las solicitudes de recuperación deben presentarse a
+                        la empresa a través del canal de consulta de atención al
+                        cliente dentro de los 7 días a partir de la fecha del
+                        problema.
+                        <br />
+                        4) La solicitud de recuperación debe enviarse a la
+                        empresa a través del canal de consulta de servicio al
+                        cliente dentro de los 7 días a partir de la fecha del
+                        problema. Es difícil ayudar con la recuperación después
+                        del período de aceptación de la consulta.
+                        <br />
+                        5) El uso del canal de consulta de servicio al cliente
+                        en el juego debe ser por el personaje en cuestión, y no
+                        se permite el nombre de la persona.
+                        <br />
+                        6) La empresa puede revisar o cambiar el contenido del
+                        servicio del juego a través de parches o actualizaciones
+                        si es necesario por razones operativas y técnicas, y la
+                        recuperación está limitada a la modificación, cambio o
+                        eliminación de la información de uso del juego del
+                        miembro que resulte de esto. Los miembros no pueden
+                        reclamar daños por separado en relación con las acciones
+                        de dicha empresa.
+                        <br />
+                        7) La pérdida o cambio de la información de uso del
+                        juego en cada uno de los siguientes subpárrafos no está
+                        sujeta a recuperación o compensación:
+                        <br />
+                        (A) Si los datos objetivos basados en los datos del
+                        miembro del juego no se pueden asegurar
+                        <br />
+                        (B) Cuando es difícil probar contenidos claros a través
+                        de los datos del juego, como daños causados por demoras
+                        generales o fallas en la línea.
+                        <br />
+                        (C) Pérdida de bienes/ítems/experiencia de juego, etc.
+                        debido a la intención o negligencia de los miembros del
+                        juego.
+                        <br />
+                        (D) Daños causados por no familiarizarse con la
+                        información proporcionada a través de la política de
+                        operación, avisos de la comunidad oficial (Facebook,
+                        Discord, YouTube, Foro), avisos en el juego, etc.
+                        <br />
+                        (E) Daños causados por el uso normal de los servicios
+                        del juego por parte del miembro, como la venta de ítems,
+                        la síntesis y la destrucción. <br />
+                        (F) Daños causados por el cambio de dispositivo o la
+                        inicialización del dispositivo.
+                        <br />
+                        (G) Daños causados por problemas entre miembros sin la
+                        intervención de la empresa, como fraude en el juego
+                        <br />
+                        (H) En caso de que se produzcan daños como el robo
+                        debido a un manejo de cuenta insuficiente.
+                        <br />
+                        Sin embargo, para evitar daños mayores, después de
+                        verificar los datos, la cuenta infractora puede
+                        restringir el uso del servicio de acuerdo con la
+                        política de operación.
+                        <br />
+                        (I) En caso de que la información del ID (cuenta) se
+                        pierda debido a un acto que pueda mover, perder o
+                        falsificar datos mientras usa la cuenta de invitado.
+                        <br />
+                        8) La restauración de los datos del juego se puede
+                        realizar después de que los datos objetivos estén
+                        protegidos a través de los registros del juego, y la
+                        recuperación no es posible si es difícil verificar los
+                        datos.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>7. Cambio de Servicio</h3>
+                      <p>
+                        1) La empresa puede modificar todo o parte del servicio
+                        después de un aviso previo, si es necesario, para el
+                        funcionamiento y la tecnología del servicio, como nuevos
+                        contenidos del juego y varios parches de errores. No
+                        obstante, si existen causas ineludibles que no pueden
+                        ser notificadas con antelación, podrá ser sustituida por
+                        una notificación posterior.
+                        <br />
+                        2) Los miembros no pueden reclamar por daños que no sean
+                        causados por la imposibilidad de usar los servicios
+                        pagos debido a cambios en el servicio, etc.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>8. Política de Malos Actos</h3>
+                      <p>
+                        1) La empresa prohíbe a los miembros explotar los bugs
+                        del sistema o compartir los contenidos con otros
+                        miembros.
+                        <br />
+                        2) Abusar de los bugs del sistema, etc. es un acto
+                        contra la equidad con otros miembros, por lo que, si
+                        abusa o comparte bugs o problemas del sistema, es
+                        posible que se le restrinja el uso del juego o que sus
+                        calificaciones de servicio se suspendan sin previo
+                        aviso.
+                        <br />
+                        3) En la comunidad de servicio de “GunboundR” y la
+                        comunidad reconocida oficialmente por la empresa, los
+                        actos que violen el orden público y la moral pueden
+                        causar un gran daño a otros miembros. Por lo tanto, si
+                        registra los siguientes actos y publicaciones, puede
+                        suspender las calificaciones de uso del servicio para
+                        los editores de las publicaciones:
+                        <br />
+                        (A) En caso de publicidad comercial o contenido que se
+                        considere similar a la publicidad.
+                        <br />
+                        (B) En caso de intentar instigar transacciones de cash,
+                        transacciones de cuenta, transacciones de servidor a
+                        servidor u otros miembros.
+                        <br />
+                        (C) En caso de contenido que insulte gravemente a la
+                        empresa, a otros miembros o a terceros o dañe la
+                        reputación de la empresa mediante calumnias <br />
+                        (D) Al publicar o enlazar información, sentencias,
+                        cifras, etc. que violen la Ley de Protección a la
+                        Juventud <br />
+                        (E) Si el contenido promueve la copia ilegal o la
+                        piratería.
+                        <br />
+                        (F) Si se reconoce objetivamente que el contenido está
+                        relacionado con un delito <br />
+                        (G) En caso de contenido que infrinja otros derechos
+                        como los derechos de autor de otros miembros o de
+                        terceros <br />
+                        (H) Desviarse de los principios de publicación
+                        establecidos por la empresa o si no se ajusta al tablón
+                        de anuncios.
+                        <br />
+                        (I) En caso de difundir información falsa o causar
+                        malentendidos a varios miembros.
+                        <br />
+                        (J) En caso de contenido que contenga fondos de
+                        pantalla, blasfemias, palabras y expresiones obscenas.
+                        <br />
+                        (K) Al hacerse pasar por el equipo de gerencia y los
+                        ejecutivos de la empresa.
+                        <br />
+                        (L) En caso de contenido que viole los términos de uso y
+                        otras leyes relacionadas.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>9. Política de restricción de uso de juegos</h3>
+                      <p>
+                        1) El Operador respeta la cultura de uso autónomo del
+                        juego de los miembros para crear una cultura de uso
+                        saludable y no se involucra innecesariamente en esto.
+                        Sin embargo, el Operador puede tomar las siguientes
+                        acciones sin previo aviso por incumplimiento de la
+                        “política de operación” para mantener el orden:
+                        <br />
+                        (A) Restricción de uso: Restricción de uso del servicio
+                        de juego de “GunboundR”.
+                        <br />
+                        (B) Prohibición de chat: Restricción en el uso del
+                        servicio de chat de “GunboundR”.
+                        <br />
+                        (C) Advertencia: Restricciones temporales como
+                        precaución y recomendación del Operador <br />
+                        (D) Cambio de nombre: Cambiar a la fuerza el nickname
+                        del personaje y el nombre del clan a discreción del
+                        Operador.
+                        <br />
+                        (E) Ajuste y colección de ítems: Eliminar la información
+                        de personaje, ítems y bienes pagados relacionados con
+                        violaciones de los términos de uso, o cambiar la
+                        cantidad y la naturaleza.
+                        <br />
+                        2) Si la empresa impone sanciones, las ganancias (ítems,
+                        puntos de experiencia, etc.) relacionadas con
+                        infracciones de los Términos de uso pueden recuperarse o
+                        ajustarse, y la información de uso del juego puede
+                        inicializarse por infracciones de los Términos de uso,
+                        como la explotación de bugs o uso de programas ilegales,
+                        donde es difícil calcular las ganancias relacionadas.
+                        <br />
+                        3) Todas las responsabilidades por robo de cuenta debido
+                        a razones atribuibles al miembro o por violaciones de
+                        los Términos de uso que ocurrieron durante el uso
+                        compartido de la cuenta son responsabilidad de la parte
+                        que violó los Términos de uso y el miembro titular de la
+                        cuenta, y se pueden aplicar sanciones a las cuentas de
+                        ambas partes.
+                        <br />
+                        4) Si se confirman dos o más violaciones a los Términos
+                        de Uso al mismo tiempo, la empresa podrá imponer las
+                        sanciones correspondientes a cada acto.
+                        <br />
+                        5) La empresa puede aplicar sanciones por violar los
+                        términos de uso a los miembros que procesen o conspiren
+                        contra las violaciones de los términos de uso de otros
+                        miembros, o a los miembros que ayuden u obtengan
+                        beneficios irrazonables por violar los términos de uso.
+                        <br />
+                        6) Si otro miembro adquiere el ítem a pesar de que
+                        reconoce que es un ítem obtenido a través de un acto en
+                        violación de los términos de uso, o si adquiere el ítem
+                        de forma gratuita sin reconocerlo, la empresa puede
+                        cobrar el dicho ítem.
+                        <br />
+                        7) Para conocer los motivos de las sanciones y el
+                        contenido de las sanciones, siga la tabla estándar de
+                        sanciones a continuación. Sin embargo, incluso si se
+                        produce la sanción establecida por la tabla estándar de
+                        sanciones, la empresa no puede dar una sanción menor de
+                        las que están en la tabla estándar de sanciones,
+                        considerando la situación específica en el momento de la
+                        violación de los términos de uso o el grado de impacto
+                        en el Servicio.
+                        <br />
+                        8) Incluso si los elementos no se enumeran en la tabla
+                        estándar de sanciones a continuación, se pueden aplicar
+                        sanciones según la gravedad de las acciones que violen
+                        los términos de uso y las leyes relacionadas.
+                      </p>
+                      <p>
+                        Tipo Detalles Criterios de Formulación
+                        <br />
+                        1º 2º 3º 4º
+                        <br />
+                        <br />
+                        Uso de lenguaje abusivo El "Uso de lenguaje abusivo" se
+                        refiere a estos actos:
+                        <br />
+                        - Actos que ofenden o disgustan a la otra parte o a
+                        múltiples usuarios. <br />
+                        - Actos que ofenden como chat abusivo, lenguaje abusivo,
+                        expresiones sexuales, insultos a los padres, anuncios,
+                        etc.
+                        <br />
+                        - Degradar, ridiculizar o criticar una región
+                        específica, religión, raza, discapacidad, etc.
+                        <br />
+                        - Usar un lenguaje que es difícil de aceptar de acuerdo
+                        con las normas sociales.
+                        <br />
+                        - Amenazar la realidad o hacer que otros sientan miedo.
+                        <br />
+                        - Otras expresiones o comunicaciones prohibidas por los
+                        Términos y Condiciones para infundir incomodidad o
+                        disgusto en la otra parte.
+                        <br />
+                        ※ Los criterios de sanción consideran de manera integral
+                        el historial de sanciones anteriores, el grado y número
+                        de comportamientos nocivos para la salud y los efectos
+                        adversos sobre otros jugadores o empresas.
+                        <br />
+                        Pueden ocurrir diferencias individuales y el límite
+                        puede ajustarse según la gravedad del caso. (Ejemplo:
+                        Sanciones de “Plazo de 7 días” aplican a la primera
+                        sanción).
+                        <br />※ Si chatea usando un lenguaje abusivo, es posible
+                        que se le prohíba el chat de personajes sin previo
+                        aviso. 1 día de restricción de chat 7 días de
+                        restricción de chat 15 días de restricción de chat 30
+                        días de restricción de chat
+                      </p>
+                      <p>
+                        Uso de nombres abusivos El "Uso de un nombre abusivo" se
+                        refiere al uso del nombre descrito en el párrafo 1 del
+                        Artículo 5 de la Política de nombres. Advertencia <br />
+                        (Cambio de nombre) 3 días de restricción de chat (Cambio
+                        de nombre) 7 días de restricción de chat (Cambio de
+                        nombre) Restricciones de uso permanentes
+                        <br />
+                        Abuso anormal del sistema de pago/comercio El "Abuso
+                        anormal del sistema de pago/comercio" se refiere a estos
+                        actos:
+                        <br />
+                        - Actos de pago o cancelación en un método no aprobado
+                        por la empresa.
+                        <br />
+                        - Obtener ganancias ilegales utilizando el proceso de
+                        reembolso y cancelación de pago de la tienda.
+                        <br />
+                        ※ Por favor, continúe con el procedimiento normal a
+                        través de consultas 1:1 para la cancelación del pago.
+                        <br />※ Según la gravedad del caso, la empresa solicita
+                        una investigación por parte de una agencia judicial.
+                        Restricciones permanentes
+                      </p>
+                      <p>
+                        Explotación de bug La “Explotación de bug” se refiere a
+                        estos actos:
+                        <br />
+                        - Aprovechar una ventaja inusual debido a un bug no
+                        intencional y no informarlo.
+                        <br />
+                        - Obtención de beneficios anormales mediante el uso
+                        repetido de bugs.
+                        <br />
+                        - Explotar el sistema del juego para obtener una ventaja
+                        injusta.
+                        <br />
+                        - Actos que se aprovechan de los bugs para beneficiarse
+                        y afectar el equilibrio o el sistema del juego.
+                        <br />
+                        - Distribuir los bugs que pueden afectar negativamente
+                        al juego y a la comunidad.
+                        <br />
+                        ※ Si encuentra un abuso del sistema o comportamiento
+                        abusivo, debe informarlo a través del centro de atención
+                        al cliente.
+                        <br />
+                        ※ Si obtiene ganancias o difunde este bug sin informar
+                        al respecto, también puede estar sujeto a una sanción.
+                        <br />
+                        ※ Si se produce un comportamiento anormal en el juego,
+                        el acceso a su cuenta puede restringirse temporalmente
+                        para su investigación.
+                        <br />
+                        ※ Dependiendo de la gravedad del caso, las sanciones de
+                        “restricción de cuenta permanente" pueden aplicarse en
+                        la primera sanción. 15 días de restricción <br />
+                        (Varias veces) <br />
+                        Restricción de uso permanente <br />
+                        (Con frecuencia) - -
+                      </p>
+                      <p>
+                        Transacciones de Dinero y Publicidad Comercial
+                        “Transacciones de Dinero / Publicidad Comercial” se
+                        refiere a estos actos:
+                        <br />
+                        - Intentar intercambiar y publicitar datos de juegos,
+                        como cuentas y ítems, por dinero.
+                        <br />
+                        - Actos de intercambio de ítems y contenidos pagados
+                        usando bienes reales/otros ítems del juego.
+                        <br />
+                        - Publicidad en juegos y comunidades con fines
+                        comerciales.
+                        <br />- Actos de cuidado de cuentas/personajes a cambio
+                        de ítems, bienes reales o servicios. Restricciones
+                        permanentes
+                      </p>
+                      <p>
+                        Filtración y manipulación de información personal
+                        “Filtración y manipulación de información personal” se
+                        refiere a estos actos:
+                        <br />
+                        - En caso de distribuir información personal de otras
+                        personas sin consentimiento.
+                        <br />
+                        - En caso de falsificación de documentos de verificación
+                        de identidad y otros documentos.
+                        <br />- Cualquier acto que pueda causar daño al
+                        distribuir o exponer intencionalmente la información de
+                        otros miembros. Restricciones permanentes
+                      </p>
+                      <p>
+                        Fraude <br />
+                        (intento de fraude) “Fraude” e “Intento de fraude” se
+                        refiere a estos actos:
+                        <br />
+                        - Tomar o intentar tomar una ventaja injusta en el juego
+                        engañando a otros.
+                        <br />※ En caso de “fraude”, la primera sanción puede
+                        ser “permanente”, y dependiendo de la gravedad del caso,
+                        la empresa puede solicitar una investigación judicial.
+                        Restricciones permanentes
+                      </p>
+                      <p>
+                        Producción, uso y distribución de programas ilegales
+                        “Producción, uso y distribución de programas ilegales”
+                        se refiere a estos actos:
+                        <br />
+                        - Uso de programas ilegales para hacer caer el servidor.
+                        <br />
+                        - Uso de programas no aprobados por la empresa.
+                        <br />
+                        - Distribuir programas ilegales y compartirlos con otros
+                        clientes.
+                        <br />
+                        - Manipular/cambiar el sistema de juego de forma inusual
+                        <br />
+                        ※ Los programas ilegales son todos los programas no
+                        aprobados por la empresa que permiten juegos anormales
+                        fuera de la categoría de progreso normal del juego.
+                        <br />※ Dependiendo la magnitud del daño, se pueden
+                        emprender acciones legales. Restricciones permanentes
+                      </p>
+                      <p>
+                        Robo de cuenta “Robo de cuenta” se refiere a estos
+                        actos:
+                        <br />
+                        - Actos de robo o filtración de información personal de
+                        otras personas.
+                        <br />
+                        - Actos de robo o filtración de información de pago de
+                        otras personas.
+                        <br />
+                        - Acceso no autorizado a la cuenta de otra persona.
+                        <br />
+                        - Cambio no autorizado de la información de la cuenta de
+                        otra persona.
+                        <br />
+                        - Pago no autorizado utilizando información personal o
+                        información de pago de otras personas.
+                        <br />
+                        - Actos que causan daño al acceder a las cuentas de
+                        otras personas.
+                        <br />
+                        - En caso de aprovecharse al estar involucrado en el
+                        hackeo o robo de cuenta de otra persona.
+                        <br />※ Cualquier acto que dañe la información de la
+                        cuenta por el acceso no autorizado a la cuenta de otro
+                        miembro. Restricciones permanentes
+                      </p>
+                      <p>
+                        Suplantación de identidad del Operador (incluidos los
+                        funcionarios de la empresa) “Suplantación de identidad
+                        de Operador” se refiere a estos actos:
+                        <br />
+                        - Actos de engañar a otros haciéndose pasar por el
+                        Operador.
+                        <br />
+                        - Actos de engañar a otros haciéndose pasar por un
+                        funcionario de la empresa
+                        <br />- Hacerse pasar por el equipo de operaciones
+                        abusando de sitios/imágenes falsas de la comunidad. 7
+                        días de restricción 30 días de restricción 365 días de
+                        restricción Restricciones de uso permanentes
+                      </p>
+                      <p>
+                        Interferir con el funcionamiento del juego “Interferir
+                        con el funcionamiento del juego” se refiere a estos
+                        actos: <br />
+                        - Retrasar el servicio al cliente a través de informes
+                        falsos.
+                        <br />
+                        - Informe falso de daños por robo de cuenta.
+                        <br />
+                        - Difundir e instigar hechos falsos no revelados.
+                        <br />- Cualquier acción que promueva la especulación en
+                        el juego. Advertencia 7 días de restricción 15 días de
+                        restricción 30 días de restricción
+                      </p>
+                      <p>
+                        Interferir con el progreso del juego “Interferir con el
+                        progreso del juego” se refiere a estos actos: <br />
+                        - Infligir daño repetidamente a otros usuarios mientras
+                        el juego está en progreso.
+                        <br />- Actos que dañan intencionalmente el progreso del
+                        juego de otros usuarios. Advertencia 3 días de
+                        restricción 7 días de restricción 15 días de restricción
+                      </p>
+                      <p>
+                        9-1. Guía sobre Apelaciones por Restricción de Uso
+                        <br />
+                        1) Si desea presentar una objeción a la restricción de
+                        uso, puede consultar a través de la consulta 1:1 del
+                        centro de atención al cliente del juego. No obstante, si
+                        ha transcurrido un mes desde la fecha de inicio de la
+                        restricción de uso, no se puede presentar objeción por
+                        haber expirado el plazo de conservación de datos para la
+                        base de la sanción.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>
+                        10. Política de Operación de Comunidad (Publicaciones)
+                      </h3>
+                      <p>
+                        1) La comunidad dentro del servicio (chat, tablón de
+                        anuncios, etc.) y el sitio de la comunidad (Facebook,
+                        Discord, YouTube, Foro, etc.) está diseñado con el
+                        propósito de intercambiar diversa información necesaria
+                        para que los miembros usen el servicio, conversen y
+                        compartan opiniones sobre la empresa y los servicios,
+                        etc.
+                        <br />
+                        2) Con base en este principio, la empresa hace todo lo
+                        posible para crear una comunidad saludable y brindar
+                        servicios comunitarios estables.
+                        <br />
+                        3) Las publicaciones se refieren a información como
+                        publicaciones, fotos, imágenes, voces, vídeos y otros
+                        archivos, enlaces, comentarios y publicaciones
+                        publicadas por miembros dentro de los servicios de la
+                        empresa.
+                        <br />
+                        4) Si la empresa recibe una objeción, como un reclamo
+                        por daños y perjuicios, de otros porque la publicación
+                        del miembro infringe los derechos de otros, el miembro
+                        que escribió la publicación debe cooperar activamente
+                        para la inmunidad de la empresa, y si la empresa no está
+                        exenta, en este caso, el miembro será responsable de
+                        cualquier problema que se derive del mismo.
+                        <br />
+                        5) En principio, la empresa no interviene en las
+                        disputas entre miembros dentro de la comunidad. Sin
+                        embargo, puede intervenir o mediar parcialmente
+                        determinando la gravedad del problema o el grado de
+                        efecto adverso en muchos miembros de la comunidad.
+                        <br />
+                        Además, podemos restringir el uso de la comunidad sin
+                        previo aviso según su gravedad y la "política oficial de
+                        la comunidad".
+                        <br />
+                        6) Para establecer una comunidad saludable, la empresa
+                        puede editar, mover o eliminar publicaciones
+                        correspondientes a los contenidos definidos en la
+                        "Política oficial de la comunidad" sin previo aviso, y
+                        si se detectan publicaciones o comentarios inapropiados,
+                        la empresa puede restringir el acceso a la comunidad sin
+                        previo aviso durante un cierto período.
+                        <br />
+                        7) Los asuntos no estipulados en este principio y la
+                        interpretación de este principio se regirán por los
+                        "Términos de uso", y se seguirán las leyes y costumbres
+                        relacionadas para otros asuntos.
+                        <br />
+                        8) Si se considera necesario para el buen funcionamiento
+                        del juego, incluso si no es específicamente aplicable a
+                        la "política oficial de la comunidad", se pueden tomar
+                        las medidas apropiadas de acuerdo con el orden general
+                        en el juego compartido por la administración y los
+                        miembros.
+                        <br />
+                        &lt; Ir a la Política oficial de la Comunidad &gt;
+                      </p>
+                    </div>
+                    <div>
+                      <h3>11. Retiro de suscripción y reembolso</h3>
+                      <p>
+                        1) Los “ítems pagados” comprados por los “Usuarios” se
+                        dividen en productos que se pueden reembolsar y
+                        productos que no se pueden reembolsar según el tipo de
+                        ítem. Para los "ítems pagados" que se pueden reembolsar,
+                        puede solicitar el reembolso dentro de los 7 días
+                        posteriores a la compra.
+                        <br />
+                        2) El retiro de la suscripción está limitado en los
+                        siguientes casos:
+                        <br />
+                        (A) En caso de ítems que se usan inmediatamente o se
+                        aplican inmediatamente después de la compra, como
+                        productos de paquete.
+                        <br />
+                        (B) En caso de ítems adquiridos durante el uso del
+                        servicio.
+                        <br />
+                        (C) En caso de utilizar alguno de los productos
+                        adicionales (bienes, puntos, ítems, etc.) abonados en el
+                        momento del pago.
+                        <br />
+                        (D) En caso de usar algunos ítems vendidos en paquetes.
+                        <br />
+                        (E) En caso de bienes y ítems proporcionados
+                        gratuitamente por la “empresa” a los “socios”.
+                        <br />
+                        (F) Al activar los productos y/o contenidos que otorgan
+                        ciertos beneficios.
+                        <br />
+                        (G) Si aceptas un artículo que se entrega en tu buzón de
+                        correo al momento de comprar
+                        <br />
+                        ※ Entre los bienes que tiene, se le descontarán los
+                        bienes que pagó, y los reembolsos solo están disponibles
+                        para los bienes que se ha cobrado.
+                        <br />
+                        12. Uso de servicios de pago por parte de menores
+                        <br />
+                        Si un menor realiza un pago sin el consentimiento de su
+                        representante legal, su representante legal podrá
+                        cancelar el pago. Sin embargo, la cancelación está
+                        limitada si el pago de un servicio pagado por un menor
+                        está dentro del alcance de la propiedad que se permite
+                        enajenar por un representante legal o si se produce
+                        debido a la mala conducta de un menor.
+                        <br />
+                        Si el adquirente del servicio pago es menor de edad se
+                        juzga en base al registro del titular del terminal y
+                        medio de pago, y en caso de ser necesario, se le podrá
+                        exigir la presentación de los documentos que acrediten
+                        el menor y el representante legal.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>13. Política de ID de invitado (cuenta)</h3>
+                      <p>
+                        1) El ID de invitado (cuenta) pertenece al dispositivo,
+                        y la información de ID (cuenta) puede perderse debido a
+                        acciones que pueden mover, perder o falsificar datos del
+                        dispositivo, como pérdida del dispositivo,
+                        restablecimiento de fábrica, caché y eliminación de
+                        datos, etc.
+                        <br />
+                        2) La empresa hará todo lo posible para restaurar la
+                        información de ID del invitado (cuenta) si se pierde
+                        debido a razones atribuibles a la empresa.
+                        <br />
+                        3) La empresa brinda suficiente información en el juego
+                        y en la comunidad oficial sobre los problemas que pueden
+                        ocurrir si el ID (cuenta) no está vinculada.
+                        <br />
+                        4) Si la información de ID (cuenta) del miembro se
+                        pierde debido a negligencia o negligencia del miembro,
+                        como pérdida, transferencia, restablecimiento de
+                        fábrica, caché y eliminación de datos, etc., no somos
+                        responsables de la recuperación y no podemos ayudar.
+                        <br />
+                        5) El ID de invitado (cuenta) no admite el retiro del
+                        juego y no garantiza el uso permanente.
+                      </p>
+                    </div>
+                    <div>
+                      <h3>
+                        14. Política de operación para proteger los derechos
+                        humanos de los consejeros.
+                      </h3>
+                      <p>
+                        1) Los actos que infringen los derechos humanos de los
+                        consejeros e interfieren con su trabajo son los
+                        siguientes: (A) Lenguaje abusivo ∙ Acoso sexual ∙
+                        Infracción de personalidad ∙ Consultas individuales que
+                        incluyen expresiones amenazantes ∙ Consejería de
+                        miembros
+                        <br />
+                        (B) Lenguaje abusivo no relacionado con el juego ∙ Acoso
+                        sexual ∙ Infracción del personaje ∙ Consejería de
+                        miembros ∙ Consultas individuales que incluyen
+                        expresiones amenazantes <br />
+                        (C) Lenguaje abusivo continuo ∙ Acoso sexual ∙
+                        Infracción personal∙ Consultas individuales que incluyen
+                        expresiones amenazantes ∙ Interferir con los servicios
+                        de asesoramiento para miembros <br />
+                        (D) Consulta 1:1 que puede causar daño psicológico grave
+                        al consejero ∙ Interferir con los servicios de
+                        consejería de miembros
+                        <br />
+                        2) Si se violan los derechos humanos del consejero a
+                        través de consultas 1:1 o consultas de miembros, se
+                        pueden tomar las siguientes medidas de acuerdo con la
+                        política de operación.
+                        <br />
+                        Tipo 1º 2º 3º
+                        <br />
+                        Violación de derechos humanos del consejero Advertencia
+                        y <br />
+                        no más consejería 3 días de restricción de uso 7 días de
+                        restricción de uso
+                        <br />
+                        (A) Consultas 1:1 que no incluyen violaciones de la
+                        política de operación ∙ Se reanuda la consulta durante
+                        la consejería de miembros. <br />
+                        (B) Si las blasfemias, el acoso sexual, la violación de
+                        la personalidad o las expresiones amenazantes se repiten
+                        incluso después de las medidas de restricción de uso del
+                        juego, la restricción de uso del juego (7 días) se puede
+                        aplicar de forma acumulativa. <br />
+                        (C) En caso de lenguaje abusivo, acoso sexual o
+                        infracción personal con varias cuentas de la misma IP o
+                        información del dispositivo, se puede considerar de la
+                        misma persona y tomar medidas. <br />
+                        (D) Si se juzga que el grado de violación de los
+                        derechos humanos de los consejeros es grave como se
+                        muestra en el ejemplo a continuación, se puede
+                        restringir el acceso.
+                        <br />
+                        1 Lenguaje abusivo, insultos o lenguaje abusivo usando
+                        la apariencia del consejero o partes específicas del
+                        cuerpo.
+                        <br />
+                        2 Solicitar una reunión privada con un consejero o hacer
+                        bromas obscenas.
+                        <br />
+                        3 Expresión sexual, lenguaje abusivo o lenguaje abusivo
+                        dirigido o utilizado para los miembros de la familia del
+                        consejero.
+                        <br />
+                        4 Mostrar imágenes, como fotos, que puedan causar
+                        humillación sexual al consejero.
+                        <br />
+                        5 Cualquier otra palabra o acción que pueda hacer que el
+                        consejero sienta disgusto o vergüenza sexual.
+                        <br />
+                      </p>
+                    </div>
+                    <div>
+                      <h3>15. Política de cuenta inactiva a largo plazo</h3>
+                      <p>
+                        1) Para mejorar el servicio y proteger la información de
+                        los miembros, la empresa puede eliminar la información
+                        de uso del juego, como los personajes de las cuentas que
+                        no han usado el juego durante más de un período
+                        determinado (180 días). Sin embargo, la empresa debe
+                        notificar el hecho a través del aviso del juego y la
+                        comunidad 7 días antes de la eliminación de la
+                        información de uso del juego.
+                      </p>
+                    </div>
+                    <div>
+                      <h3></h3>
+                      <p>
+                        &lt;Adenda &gt;
+                        <br />
+                        Esta política de operación es efectiva a partir del
+                        01/05/2023.
+                      </p>
+                    </div>

@@ -1,0 +1,90 @@
+<p style="text-align:center"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:#ffffff">[</span></span></span><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:#ffffff"><strong>Termos de Uso de IP e UGC]</strong></span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Softnyx (doravante denominada &quot;Empresa&quot;) promulgou os Termos de Uso de IP do Jogo (doravante denominado &quot;este Acordo&quot;) para ajudar os usu&aacute;rios a desfrutar de um uso mais agrad&aacute;vel e criativo do jogo e outros servi&ccedil;os relacionados (doravante denominados como &quot;Jogo&quot; e &quot;Servi&ccedil;o de Jogo&quot;) fornecido pela Empresa.</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Este acordo estipula assuntos b&aacute;sicos como direitos, obriga&ccedil;&otilde;es e outros assuntos necess&aacute;rios entre a empresa e os usu&aacute;rios relacionados &agrave; IP do jogo e ao UGC.</span></span></span></p>
+
+<ol>
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>&nbsp;Esclarecimento da Terminologia</strong></span></span></span>
+
+	<ol>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">IP do jogo (Propriedade Intelectual): refere-se a todas as obras que comp&otilde;em o jogo, como vis&atilde;o, hist&oacute;ria, personagem, monstro, imagem, m&uacute;sica de fundo e v&iacute;deo de jogabilidade.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">UGC (Conte&uacute;do Gerado pelo Usu&aacute;rio): significa qualquer conte&uacute;do criado por usu&aacute;rios em conex&atilde;o com os jogos e servi&ccedil;os de jogos. Incluindo comunica&ccedil;&otilde;es, imagens, sons e todos os materiais e informa&ccedil;&otilde;es, como textos de di&aacute;logo, carregados ou transmitidos por usu&aacute;rios em conex&atilde;o com o jogo ou o servi&ccedil;o do jogo. Da mesma forma, textos, documentos, fotos, imagens (fan art, etc.), desenhos animados, webtoons, v&iacute;deos (fan v&iacute;deos, streaming v&iacute;deos, etc.), m&uacute;sicas, sons, vozes, efeitos ou materiais e informa&ccedil;&otilde;es compostos por combina&ccedil;&otilde;es.&nbsp;</span></span></span></li>
+	</ol>
+	</li>
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>Produ&ccedil;&atilde;o de UGC</strong></span></span></span><br />
+	<span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">A empresa respeita o UGC dos usu&aacute;rios que agregam diversos prazeres ao jogo. No entanto, a cria&ccedil;&atilde;o, distribui&ccedil;&atilde;o e manuten&ccedil;&atilde;o de jogos usando a IP do jogo n&atilde;o &eacute; permitida. Al&eacute;m disso, os usu&aacute;rios devem garantir que o UGC n&atilde;o viole o seguinte.</span></span></span></li>
+</ol>
+
+<p style="margin-left:68px"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">a. N&atilde;o deve violar leis, regulamentos da empresa e outras regras de ordem p&uacute;blica e moralidade.</span></span></span></p>
+
+<p style="margin-left:66px"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">b. N&atilde;o deve infringir os direitos de propriedade intelectual e outros direitos, incluindo direitos autorais, de terceiros.</span></span></span></p>
+
+<p style="margin-left:66px"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">c. N&atilde;o deve difamar a empresa ou outros terceiros.</span></span></span></p>
+
+<p style="margin-left:59px"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">d. N&atilde;o deve conter ou promover conte&uacute;do que seja falso, manipulado, fraudulento, falso, ilegal, obsceno, amea&ccedil;ador, difamat&oacute;rio, censur&aacute;vel ou contr&aacute;rio aos interesses da Empresa.</span></span></span></p>
+
+<p style="margin-left:59px"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">e. N&atilde;o deve conter material importante para a hist&oacute;ria, como v&iacute;deos, finais e cenas de conte&uacute;do que ainda n&atilde;o foram lan&ccedil;ados sem a aprova&ccedil;&atilde;o da Empresa.</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<ol start="3">
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>Uso de UGC</strong></span></span></span>
+
+	<ol>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">O uso comercial do UGC n&atilde;o &eacute; permitido.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Ao divulgar o UGC, a fonte deve ser especificada. (Softnyx e seu nome de jogo).</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Voc&ecirc; n&atilde;o deve criar ou distribuir o UGC com conte&uacute;do que possa ser confundido com conte&uacute;do oficial da empresa. Os usu&aacute;rios n&atilde;o podem registrar o nome de dom&iacute;nio, conta de m&iacute;dia social ou endere&ccedil;o relacionado do UGC, incluindo a marca registrada e o nome do jogo oferecido pela empresa, sem a aprova&ccedil;&atilde;o da empresa. Marcas registradas e logotipos oficiais da empresa e dos jogos que a empresa presta servi&ccedil;os n&atilde;o podem ser exibidos no UGC.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">A empresa n&atilde;o permite atividades lucrativas usando o UGC de usu&aacute;rios criados sem a aprova&ccedil;&atilde;o pr&eacute;via da empresa. No entanto, apenas o UGC criado pelo usu&aacute;rio pode receber receita de publicidade por meio da plataforma publicada e doa&ccedil;&otilde;es recebidas de outros usu&aacute;rios da plataforma. N&atilde;o deve haver interesse econ&ocirc;mico entre o usu&aacute;rio e o patrocinador, ou n&atilde;o deve haver conex&atilde;o entre atividades lucrativas, como a solicita&ccedil;&atilde;o de produtos ou servi&ccedil;os espec&iacute;ficos.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">A empresa pode usar, modificar, editar e transformar o UGC gratuitamente. (Pode ser usado de qualquer forma, como reprodu&ccedil;&atilde;o, performance, transmiss&atilde;o p&uacute;blica, exibi&ccedil;&atilde;o, distribui&ccedil;&atilde;o, aluguel, cria&ccedil;&atilde;o de obras secund&aacute;rias, etc., e n&atilde;o h&aacute; restri&ccedil;&otilde;es quanto ao per&iacute;odo e &aacute;rea de uso.)</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">No entanto, se a empresa pretender vender, alugar ou transferir o UGC para terceiros, consultar&aacute; o usu&aacute;rio separadamente com anteced&ecirc;ncia por telefone ou e-mail.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">A empresa pretende incentivar e apoiar ativamente as atividades criativas gratuitas do UGC. Se voc&ecirc; tiver alguma d&uacute;vida sobre as pol&iacute;ticas da empresa ou precisar da aprova&ccedil;&atilde;o da empresa na produ&ccedil;&atilde;o geral, uso e utiliza&ccedil;&atilde;o do UGC, pode perguntar no seguinte endere&ccedil;o de e-mail.</span></span></span></li>
+	</ol>
+	</li>
+</ol>
+
+<p><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- E-mail: </span></span></span><span style="font-size:11pt"><span style="font-family:Arimo,sans-serif"><span style="color:#ffffff">GBR</span></span></span><span style="font-size:11pt"><span style="font-family:Arimo,sans-serif"><span style="color:#ffffff"><span style="background-color:#ffffff">CS</span></span></span></span><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">@softnyx.com</span></span></span><br />
+&nbsp;</p>
+
+<ol start="4">
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>Atribui&ccedil;&atilde;o de Direitos</strong></span></span></span>
+
+	<ol>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Todos os direitos, incluindo direitos autorais e outros direitos de propriedade intelectual, nos servi&ccedil;os de jogos pertencentes &agrave; empresa e da empresa s&atilde;o concedidos aos usu&aacute;rios com o direito de us&aacute;-los de acordo com este acordo.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">De acordo com este acordo, os direitos autorais e outros direitos de propriedade intelectual pertencem ao usu&aacute;rio apenas as partes criadas pelo pr&oacute;prio usu&aacute;rio, exceto as partes em que a empresa ou um terceiro det&eacute;m direitos autorais e outros direitos de propriedade intelectual.</span></span></span></li>
+	</ol>
+	</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<ol start="5">
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>Direitos da Empresa e Isen&ccedil;&atilde;o de Responsabilidade</strong></span></span></span>
+
+	<ol>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Para o UGC que viole estes termos e condi&ccedil;&otilde;es, a empresa pode revogar imediatamente a permiss&atilde;o para usar a IP do Jogo e exigir que o UGC pare de ser publicado, distribu&iacute;do e transmitido.</span></span></span></li>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">No caso de o UGC infringir os direitos de um terceiro e houver uma disputa legal entre a empresa ou seus diretores e funcion&aacute;rios e um terceiro, ou quaisquer danos relacionados a isso, o usu&aacute;rio assumir&aacute; toda a responsabilidade e a empresa ser&aacute; responsabilizada por conta pr&oacute;pria, salvo se houver dolo ou neglig&ecirc;ncia grave da sociedade e os respectivos administradores e empregados, ele pode ser isento.</span></span></span><br />
+		&nbsp;</li>
+	</ol>
+	</li>
+	<li style="list-style-type:decimal"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff"><strong>Outros</strong></span></span></span>
+	<ol>
+		<li style="list-style-type:lower-alpha"><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Este acordo informa as precau&ccedil;&otilde;es b&aacute;sicas a serem tomadas ao fazer um UGC para ajudar os usu&aacute;rios em suas atividades criativas e est&aacute; sujeito a altera&ccedil;&otilde;es sem aviso pr&eacute;vio, e pol&iacute;ticas separadas podem ser aplicadas com base em casos individuais.</span></span></span></li>
+	</ol>
+	</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">Se voc&ecirc; tiver mais d&uacute;vidas sobre este Acordo e o UGC, entre em contato com o Centro de Atendimento ao Cliente: (</span></span></span><span style="font-size:11pt"><span style="font-family:Arimo,sans-serif"><span style="color:#ffffff">GBR</span></span></span><span style="font-size:11pt"><span style="font-family:Arimo,sans-serif"><span style="color:#ffffff"><span style="background-color:#ffffff">CS</span></span></span></span><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">@softnyx.com).</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:11pt"><span style="font-family:'Malgun Gothic'"><span style="color:#ffffff">&iexcl;Muito obrigado!</span></span></span></p>
+
+<p><br />
+&nbsp;</p>

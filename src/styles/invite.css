@@ -1,0 +1,48 @@
+
+/* 초대페이지 */
+.invite_wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    min-height: 800px;
+    background: url("../../public/img/bg_sec_02.jpg") no-repeat center/cover;
+    padding: 60px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  .invite_wrap .logo {
+    width: 100%;
+    max-width: 842px;
+  }
+  .invite_wrap p {
+    font-size: 60px;
+    color: #000000;
+    text-align: center;
+    font-family: "topShow", sans-serif;
+  }
+  .invite_wrap p + .btn_wrap {
+    margin-top: 30px;
+  }
+  .invite_wrap .btn_wrap {
+    flex-direction: column;
+    gap: 14px 0;
+    margin-top: 20px;
+  }
+  .invite_wrap .btn_wrap a {
+    display: block;
+    height: 106px;
+  }
+  .invite_wrap .btn_wrap a img {
+    height: 100%;
+  }
+  .invite_wrap .sns_link {
+    margin-top: 45px;
+  }
+  .invite_wrap .sns_link ul {
+    gap: 0 26px;
+  }
+  .invite_wrap .sns_link li a {
+    width: 84px;
+  }
