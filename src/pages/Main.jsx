@@ -15,6 +15,7 @@ import i18n from "../locales/i18n";
 import { useSearchParams } from "react-router-dom";
 
 const Main = () => {
+  console.log("풀리퀘 테스트");
   const [key, setKey] = useState(0);
   // 언어 변경하기
   const changeLanguage = (lang) => {
