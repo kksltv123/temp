@@ -518,6 +518,9 @@
   bottom: 18%;
   left: 23%;
 }
+.main_swiper .swiper {
+    height:100%;
+}
 .main_swiper .swiper-slide {
   position: relative;
 }
